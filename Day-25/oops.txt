@@ -1,0 +1,45 @@
+What is OOPs:
+--------------
+
+Object-Oriented Programming (OOPs) is a programming approach where programs are designed using objects and classes.
+
+Main OOPs concepts are:
+-------------------------
+
+1.Class:
+A class is a blueprint for creating objects. It defines attributes and methods.
+Example: class Student:
+
+2.Objects:
+An object is an instance of a class. It represents a real-world entity. 
+Example: student1 = Student()
+
+3.Encapsulation:
+Combining data and methods into a single unit (class). Helps protect and control access to data.
+Example: private attributes using __.
+
+4.Inheritance: 
+Allows one class to reuse properties and methods of another class. Helps reduce code duplication.
+Types include:
+ 1. Single inheritance
+ 2. Multiple inheritance
+ 3. Multilevel inheritance
+ 4. Hierarchical inheritance
+
+5.Polymorphism:
+Means "many forms." The same method or operation can behave differently depending on the object.
+Example: method overriding.
+
+6.Abstraction:
+Hides unnecessary implementation details and shows only essential features.
+Python provides abstraction using abstract classes and the abc module.
+
+Benfits of OOPs:
+-----------------
+
+> code reusability
+> data security
+> easy to maintain
+> better code organization
+> reduces code duplication
+> make large programs easier to manage
